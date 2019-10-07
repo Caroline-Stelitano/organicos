@@ -1,2 +1,2 @@
 # organicos
-LAyout para site de vegetais orgânicos
+Layout para site de vegetais orgânicos
